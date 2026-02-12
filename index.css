@@ -105,6 +105,7 @@ width: 100%;
 .category_items{
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-evenly;
     
 }
 .sales_items{
